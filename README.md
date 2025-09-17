@@ -23,7 +23,6 @@ amazon_product_analysis/
 ├── data/ # Sample dataset
 ├── images/ # Charts & screenshots
 └── notebooks/ # Jupyter notebooks
-└── 01_data_cleaning.ipynb
 
 ## Steps Performed
 1. **Download & load dataset** using KaggleHub.
@@ -85,5 +84,6 @@ jupyter notebook
 
 # 5. Run the notebooks in order, starting with 01_data_cleaning.ipynb
 ```
+
 
 
